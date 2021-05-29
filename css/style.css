@@ -638,7 +638,7 @@ header .search-bar-container label:hover{
 .wisata .box-container{
   display: flex;
   flex-wrap: wrap;
-  gap: 4.5rem;
+  gap: 5rem;
 }
 
 .wisata .box-container .box{
@@ -687,7 +687,7 @@ header .search-bar-container label:hover{
 .galeri .box-container{
   display: flex;
   flex-wrap: wrap;
-  gap:1.5rem;
+  gap:5rem;
 }
 
 .galeri .box-container .box{
